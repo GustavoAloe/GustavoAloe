@@ -8,11 +8,3 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GustavoAloe&theme=aura&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAloe&theme=aura&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/GustavoAloe/GustavoAloe/output/snake.svg" alt="Snake animation" />
-
-###
