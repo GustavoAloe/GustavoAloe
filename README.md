@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gustavo and I'm a Front-End Developer</h2>
+<h2 align="left">Hi 👋! My name is Gustavo and I'm a Developer</h2>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-aloe-a957872b6/) 
